@@ -1,4 +1,4 @@
-Hi 👋 My name is Marcus Zagorski
+Hi 👋🏽 My name is Marcus Zagorski
 ================================
 
 Full Stack Dev & Graphic Designer
