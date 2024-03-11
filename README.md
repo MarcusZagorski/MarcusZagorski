@@ -13,7 +13,7 @@ Once, a wise person told me, "To make it, you've got to believe. Believe, and su
 
 ### Skills
 
-    <p align="left">
+   <p align="left">
       <a
         href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
         target="_blank"
@@ -76,6 +76,42 @@ Once, a wise person told me, "To make it, you've got to believe. Believe, and su
           alt="Vite" /></a
       >
       </p>
+
+### Tools I Use
+
+<p align="left">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
+          width="36"
+          height="36"
+          alt="VS Code"
+      /></a>
+      <a
+        href="https://www.adobe.com/uk/products/photoshop.html"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
+          width="36"
+          height="36"
+          alt="Photoshop"
+      /></a>
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+          width="36"
+          height="36"
+          alt="Figma"
+      /></a>
+      <a href="https://slack.com/intl/en-gb/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg"
+          width="36"
+          height="36"
+          alt="Slack"
+      /></a>
+    </p>
 
 
 ### Socials
